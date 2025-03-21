@@ -1,0 +1,17 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "nttdatapayment",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "NTTDATA Payment Services",
+    "tagline": "NTTDATA Payment Services will ensure that your payment experience is smooth and effortless."
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}
